@@ -20,3 +20,6 @@ No, you may want to limit who can mint the NFT. In that case, use the resource i
 #### Idea #2: If we want to read information about our NFTs inside our Collection, right now we have to take it out of the Collection to do so. Is this good?
 
 No, you can use references to read the resource without moving it.
+
+
+ -> At day3, I did not have a specific image, but at day4, I could understand the specific implementation using Minter and borrowNFT.
