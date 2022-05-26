@@ -20,3 +20,19 @@ To make the NFT metadata readable, a reference is obtained, but the reference mu
 <b>You will have to write all the transactions to set up the accounts, mint the NFTs, and then the scripts to read the NFT's metadata. We have done most of this in the chapters up to this point, so you can look for help there :)</b>
 
 
+- add a function called borrowAuthNFT
+
+![q3_1](https://user-images.githubusercontent.com/104469719/170519796-a3b6c1b6-6c0e-404b-8be0-e64b1712bae2.PNG)
+
+
+Check the code below for details.
+
+https://github.com/hiro7z/quest-submissions/blob/main/chapter5/day3files/contracts/CryptoPoops.cdc
+
+- find a way to make it publically accessible to other people so they can read our NFT's metadata
+
+![q3_2](https://user-images.githubusercontent.com/104469719/170519819-22ee1e6a-75b2-4a99-908c-26d905986a60.PNG)
+
+- run a script to display the NFTs metadata for a certain id
+
+![q3_3](https://user-images.githubusercontent.com/104469719/170519837-580c0c95-5ec3-41dc-816b-2cfdc01900af.PNG)
